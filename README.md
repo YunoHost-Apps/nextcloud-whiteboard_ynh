@@ -18,10 +18,6 @@ The official whiteboard app for Nextcloud. Create and share whiteboards with rea
 <a href="https://github.com/YunoHost-Apps/nextcloud-whiteboard_ynh/issues"><img height="100px" src="https://github.com/YunoHost/yunohost-artwork/raw/refs/heads/main/badges/neopossum-badges/badge_report_an_issue.svg"/></a>
 </div>
 
-
-## Screenshots
-![Screenshot of Nextcloud Whiteboard](./doc/screenshots/example.jpg)
-
 ## 📦 Developer info
 
 [![Automatic tests level](https://apps.yunohost.org/badge/cilevel/nextcloud-whiteboard)](https://ci-apps.yunohost.org/ci/apps/nextcloud-whiteboard/)
