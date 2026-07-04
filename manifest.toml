@@ -72,3 +72,5 @@ ram.runtime = "50M"
     [resources.apt]
     packages = "chromium, freetype, harfbuzz, ttf-freefont, ffmpeg"
 
+    [resources.nodejs]
+    version = "22"
