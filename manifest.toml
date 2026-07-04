@@ -42,7 +42,7 @@ ram.runtime = "50M"
     type = "group"
     default = "visitors"
 
-    [install.backends_urls]
+    [install.nc_url]
     ask.en = "Nextcloud url"
     type = "string"
     example = "https://nextcloud.example.com"
