@@ -70,7 +70,7 @@ ram.runtime = "50M"
     [resources.ports]
 
     [resources.apt]
-    packages = "chromium, freetype, harfbuzz, ttf-freefont, ffmpeg"
+    packages = "redis-server, chromium, freetype, harfbuzz, ttf-freefont, ffmpeg"
 
     [resources.nodejs]
     version = "22"
