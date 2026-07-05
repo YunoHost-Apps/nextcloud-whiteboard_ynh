@@ -43,6 +43,7 @@ ynh_script_progression "Installing the app..."
 
 pushd "$install_dir"
   	npm ci
+    npm cache clean --force
 popd
 
 #=================================================
