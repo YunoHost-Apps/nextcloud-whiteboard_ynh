@@ -73,4 +73,4 @@ ram.runtime = "50M"
     packages = "redis-server, chromium, ffmpeg"
 
     [resources.nodejs]
-    version = "24"
+    version = "26"
