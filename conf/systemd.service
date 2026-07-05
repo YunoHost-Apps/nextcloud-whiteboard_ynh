@@ -1,5 +1,5 @@
 [Unit]
-Description=Small description of the service
+Description=Nextcloud Whiteboard Server
 After=network.target
 
 [Service]
@@ -7,7 +7,11 @@ Type=simple
 User=__APP__
 Group=__APP__
 WorkingDirectory=__INSTALL_DIR__/
-ExecStart=__INSTALL_DIR__/script
+EnvironmentFile=__INSTALL_DIR__/.env
+Environment="PATH=__PATH_WITH_NODEJS__"
+ExecStart=__NODEJS_DIR__/npm run server:start
+Restart=on-failure
+RestartSec=5
 StandardOutput=append:/var/log/__APP__/__APP__.log
 StandardError=inherit
 

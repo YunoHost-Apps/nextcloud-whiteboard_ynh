@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+The official whiteboard app for Nextcloud. Create and share whiteboards with real-time collaboration.

@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+L'application de tableau blanc officielle pour Nextcloud. Créez et partagez des tableaux blancs avec une collaboration en temps réel.

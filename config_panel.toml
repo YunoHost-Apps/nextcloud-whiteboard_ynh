@@ -1,0 +1,16 @@
+version = "1.0"
+
+[main]
+name.en = "Main configuration"
+name.fr = "Configuration principale"
+services = ["__APP__"]
+
+    [main.config]
+    name.en = "Configuration Options"
+    name.fr = "Options de configuration"
+
+        [main.config.nc_url]
+        ask.en = "Nextcloud URL"
+        type = "string"
+        help.en = "Define Nextcloud server address"
+        help.fr = "Définir l'adresse du serveur Nextcloud"
