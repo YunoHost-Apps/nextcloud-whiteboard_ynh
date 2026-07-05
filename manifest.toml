@@ -9,7 +9,7 @@ description.fr = "L'application de tableau blanc officielle pour Nextcloud. Cré
 
 version = "1.5.9~ynh1"
 
-maintainers = [""]
+maintainers = ["DeMiro5001"]
 
 [upstream]
 license = "AGPL-3.0" # you can see the available licenses identifiers list here: https://spdx.org/licenses/
