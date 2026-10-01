@@ -7,7 +7,7 @@ name = "Nextcloud Whiteboard"
 description.en = "The official whiteboard app for Nextcloud. Create and share whiteboards with real-time collaboration."
 description.fr = "L'application de tableau blanc officielle pour Nextcloud. Créez et partagez des tableaux blancs avec une collaboration en temps réel."
 
-version = "1.5.9~ynh1"
+version = "1.5.9~ynh2"
 
 maintainers = ["DeMiro5001"]
 
