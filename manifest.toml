@@ -56,7 +56,7 @@ ram.runtime = "50M"
     url = "https://github.com/nextcloud/whiteboard/archive/refs/tags/v1.5.9.tar.gz"
     sha256 = "35df7cac14ca69e34c183c9feee932ccfdaf1383406058480061c94db37164fc"
 
-    # autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 
