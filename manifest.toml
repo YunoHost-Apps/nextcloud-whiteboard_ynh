@@ -7,7 +7,7 @@ name = "Nextcloud Whiteboard"
 description.en = "The official whiteboard app for Nextcloud. Create and share whiteboards with real-time collaboration."
 description.fr = "L'application de tableau blanc officielle pour Nextcloud. Créez et partagez des tableaux blancs avec une collaboration en temps réel."
 
-version = "2.0.0~ynh1"
+version = "2.1.0~ynh1"
 
 maintainers = ["DeMiro5001"]
 
@@ -53,8 +53,8 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/nextcloud/whiteboard/archive/refs/tags/v2.0.0.tar.gz"
-    sha256 = "24b1a691ed760592e4fc710d9a13ff803a75215012408b191ebe606282cc23b8"
+    url = "https://github.com/nextcloud/whiteboard/archive/refs/tags/v2.1.0.tar.gz"
+    sha256 = "6541378c50ded54d1c6ee8d697ade228f4c1e87f044de3074dceb296f6734e40"
 
     autoupdate.strategy = "latest_github_tag"
 
